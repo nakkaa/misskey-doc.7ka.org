@@ -2,7 +2,7 @@
 title: Postgresqlのデータをバックアップする(docker compose)
 description: 
 published: true
-date: 2023-04-12T13:06:15.220Z
+date: 2023-04-12T13:22:08.097Z
 tags: postgresql, backup
 editor: markdown
 dateCreated: 2023-04-12T13:06:15.219Z
@@ -50,6 +50,8 @@ host_bucket = example.com/%(bucket)s
 access_key = {{ .Env.ACCESS_KEY }}
 secret_key = {{ .Env.SECRET_KEY }}
 ```
+
+`docker build -t s3cmd .` する。
 
 ### バックアップスクリプトを書く
 
