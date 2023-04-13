@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-04-13T11:57:34.486Z
+date: 2023-04-13T12:15:43.536Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-25T09:18:07.348Z
@@ -10,17 +10,21 @@ dateCreated: 2023-03-25T09:18:07.348Z
 
 # Misskey鯖缶WIkiへようこそ
 
-Misskey鯖缶Wikiへようこそ。
 Misskeyサーバーの管理・運用のナレッジ情報を共有するための非公式なWikiです。
 誰でも閲覧できます。アカウントを作成することで編集もできます。
+
+お試しで編集されたい方は[testページ](/test/test-page)をご利用ください。
 
 > **:warning: 注意事項**
 > なるべく正確な情報を記載するように心がけていますが、不正確な情報が含まれている可能性があります。
 > 記載内容を利用する際は自己責任でお願いします。
 
-直接の関係性はありませんが、Discordの「[ミス鯖工場](https://discord.com/channels/1080371620557901884/)」もオススメです。
+# 関連サービス
 
-## Misskey関係のお知らせ
+- [ミス鯖工場](https://discord.com/channels/1080371620557901884/)
+  - 直接の関係性はありませんが、Misskeyのサーバー管理者が集まっているDiscordサーバーです。
+
+# Misskey関係のお知らせ
 
 - 13.11.xではRedis7が必須になります。また通知欄やアンテナもリセットされます。
   - 13.11.3 管理人の環境では目立った問題は発生していません。
@@ -28,22 +32,22 @@ Misskeyサーバーの管理・運用のナレッジ情報を共有するため�
 - Misskeyのセキュリティアドバイザリが公開されました。Misskey 13.5.0以上にバージョンアップすることを推奨します。
   - [Security Advisories · misskey-dev/misskey](https://github.com/misskey-dev/misskey/security/advisories)
   
-## Wikiのお知らせ
+# Wikiのお知らせ
 
 - 2023/04/13
-  - Wikiのバックアップを[GitHub](https://github.com/nakkaa/misskey-doc.7ka.org)に取るようにしました。日次でバックアップします。
+  - Wikiのバックアップを[GitHub](https://github.com/nakkaa/misskey-doc.7ka.org)に取るようにしました。
 
 - 2023/03/25
   - 3月20日頃に発生したディスク障害の影響に伴い、全データをロストしました。ご迷惑をおかけし申し訳ありません。
     - 投稿時のURLがあればGoogleキャッシュから復旧できる可能性があります。URLをお持ちの方はお知らせください。
   - WikiのシステムをGrowiからwikijsへ変更しました。なお現在は日本語の検索は動きません。別途対応予定です。
 
-## ページの作り方
+# ページの作り方
 
 今後の運用で改善していくという方針で、今は`user名/記事タイトル` のようにページを作成してください。
 編集形式はmarkdownを選んでください。
 
-## 連絡先など
+# 連絡先など
 
 Wikiの管理人(運用や維持)は[なっかあ](https://misskey.7ka.org/@nakkaa)が行っています。何かありましたらご連絡ください。  
 Wikiの稼働状況は、[サービス稼働状況](https://status.7ka.org/) で確認できます。
