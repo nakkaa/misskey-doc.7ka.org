@@ -2,7 +2,7 @@
 title: Faviconを変更する
 description: 
 published: true
-date: 2023-04-13T12:06:41.322Z
+date: 2023-04-13T12:07:05.616Z
 tags: 
 editor: markdown
 dateCreated: 2023-04-01T10:44:14.199Z
@@ -11,6 +11,8 @@ dateCreated: 2023-04-01T10:44:14.199Z
 # faviconの変更方法
 
 ## Docker Compose (docker image利用)
+
+前提条件: misskey v13.10.x
 
 docker-compose.ymlに以下を追記する。
 
