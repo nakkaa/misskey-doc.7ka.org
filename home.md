@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-04-13T12:15:43.536Z
+date: 2023-04-20T15:44:44.184Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-25T09:18:07.348Z
@@ -27,7 +27,8 @@ Misskeyサーバーの管理・運用のナレッジ情報を共有するため�
 # Misskey関係のお知らせ
 
 - 13.11.xではRedis7が必須になります。また通知欄やアンテナもリセットされます。
-  - 13.11.3 管理人の環境では目立った問題は発生していません。
+  - 13.11.3 管理人の環境では一部サーバーの情報が取れないバグを引いています。
+  - 新機能を求めない方は、そのまま様子見をお勧めします。
 - Misskey 13.7からチャット機能が削除されます。チャット機能のデータは移行されないため各人でバックアップしてください。
 - Misskeyのセキュリティアドバイザリが公開されました。Misskey 13.5.0以上にバージョンアップすることを推奨します。
   - [Security Advisories · misskey-dev/misskey](https://github.com/misskey-dev/misskey/security/advisories)
