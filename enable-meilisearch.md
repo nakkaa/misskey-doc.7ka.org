@@ -2,7 +2,7 @@
 title: Meilisearchを有効化する
 description: 
 published: true
-date: 2023-05-12T13:43:07.750Z
+date: 2023-05-12T13:45:43.280Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-12T13:04:07.281Z
@@ -48,6 +48,11 @@ MEILI_MASTER_KEY=
 ```
 
 これで有効化は完了です。
+
+## 日本語検索がおかしい時
+
+- 検索キーワードに漢字のみを入れる(例えば「日本酒」「自信」など)と、中国語の投稿のみが結果に出ることがあります。次のdocker image( `getmeili/meilisearch:prototype-japanese-2` )を使うと解決できます。
+- [Force japanese v1.1.0 by ManyTheFish · Pull Request #3588 · meilisearch/meilisearch](https://github.com/meilisearch/meilisearch/pull/3588)
 
 ## v13.12.1以前からの移行
 
