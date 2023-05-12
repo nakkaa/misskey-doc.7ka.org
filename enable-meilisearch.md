@@ -2,13 +2,13 @@
 title: Meilisearchを有効化する
 description: 
 published: true
-date: 2023-05-12T13:41:59.680Z
+date: 2023-05-12T13:43:07.750Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-12T13:04:07.281Z
 ---
 
-# Meilisearchを有効化する
+# MisskeyでMeilisearchを有効化する
 
 ## 前提条件
 
