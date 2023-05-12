@@ -2,7 +2,7 @@
 title: Meilisearchを有効化する
 description: 
 published: true
-date: 2023-05-12T13:04:07.281Z
+date: 2023-05-12T13:41:59.680Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-12T13:04:07.281Z
@@ -12,6 +12,7 @@ dateCreated: 2023-05-12T13:04:07.281Z
 
 ## 前提条件
 
+- Misskey v13.12.2
 - Misskeyから提供されているdocker-compose.ymlを使った環境であること。
 - 上記以外の環境の場合は、適宜読み替えてください。
 
@@ -23,7 +24,39 @@ dateCreated: 2023-05-12T13:04:07.281Z
 
 ## MisskeyでMeilisearchを使う
 
-前提: 
-
 docker-compose.ymlの meilisearch を有効化(コメント外し)します。
 
+default.ymlのmeilisearchの設定を有効化します。
+
+apiKeyはuuidなど適当なキーを生成してください。
+
+indexはMisskeyサーバーのドメインをお勧めします。(ドットは使えないため、ハイフンにします)
+
+```
+meilisearch:
+  host: meilisearch
+  port: 7700
+  apiKey: ''
+#  ssl: true
+  index: 'example-com'
+```
+
+`.config/meilisearch.env` に先ほど生成したapiKeyを記載します。
+
+```
+MEILI_MASTER_KEY=
+```
+
+これで有効化は完了です。
+
+## v13.12.1以前からの移行
+
+> Meilisearchの設定にindexが必要になりました。値はMisskeyサーバーのホスト名にすることをお勧めします(アルファベット、ハイフン、アンダーバーのみ使用可能)。例: misskey-io 過去に作成されたnotesインデックスは、<index名>---notesにリネームが必要です。例: misskey-io---notes https://misskey-hub.net/docs/releases.html#_13-12-2
+
+
+- [misskey-13.12.2-meilisearch.md](https://gist.github.com/Akkiesoft/d9b705b53de1181e6ce8d1288d49bc10)
+
+## 関連Issue
+
+- [[13.12.0 beta.5]Meilisearchで導入以前の過去のノートを検索できるようにマイグレーションしたい · Issue #10789 · misskey-dev/misskey](https://github.com/misskey-dev/misskey/issues/10789)
+- [MeiliSearchのデータの保存期間の設定 · Issue #10835 · misskey-dev/misskey](https://github.com/misskey-dev/misskey/issues/10835)
