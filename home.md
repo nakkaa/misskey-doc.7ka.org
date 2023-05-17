@@ -2,13 +2,13 @@
 title: Home
 description: 
 published: true
-date: 2023-04-20T15:44:44.184Z
+date: 2023-05-17T16:36:31.030Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-25T09:18:07.348Z
 ---
 
-# Misskey鯖缶WIkiへようこそ
+# ミス鯖ウィキへようこそ
 
 Misskeyサーバーの管理・運用のナレッジ情報を共有するための非公式なWikiです。
 誰でも閲覧できます。アカウントを作成することで編集もできます。
