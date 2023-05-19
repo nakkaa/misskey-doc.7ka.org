@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2023-05-17T16:36:31.030Z
+date: 2023-05-19T17:13:33.844Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-25T09:18:07.348Z
@@ -45,10 +45,11 @@ Misskeyサーバーの管理・運用のナレッジ情報を共有するため�
 
 # ページの作り方
 
-今後の運用で改善していくという方針で、今は`user名/記事タイトル` のようにページを作成してください。
 編集形式はmarkdownを選んでください。
 
 # 連絡先など
 
 Wikiの管理人(運用や維持)は[なっかあ](https://misskey.7ka.org/@nakkaa)が行っています。何かありましたらご連絡ください。  
 Wikiの稼働状況は、[サービス稼働状況](https://status.7ka.org/) で確認できます。
+
+当サイトはリンクフリーです。
