@@ -2,7 +2,7 @@
 title: vultrでのオブジェクトストレージ設定
 description: 
 published: true
-date: 2023-05-21T07:56:12.741Z
+date: 2023-05-21T11:08:15.654Z
 tags: vultr
 editor: markdown
 dateCreated: 2023-05-21T07:56:12.740Z
@@ -70,7 +70,7 @@ location /storage/ {
 ```# nginx -c /etc/nginx/nginx.conf```
 
 -問題がなければ、nginxを再起動
-```# sodo systemctl restart nginx```
+```# sudo systemctl restart nginx```
 
 -エラーが出ていないか確認
 ```# journalctl -f```
