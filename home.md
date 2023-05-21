@@ -1,8 +1,8 @@
 ---
-title: ミス鯖Wiki トップページ
+title: ミス鯖ウィキ トップページ
 description: 
 published: true
-date: 2023-05-21T06:18:21.725Z
+date: 2023-05-21T06:18:30.555Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-25T09:18:07.348Z
