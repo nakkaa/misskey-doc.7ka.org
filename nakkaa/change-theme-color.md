@@ -2,7 +2,7 @@
 title: ログイン画面のテーマ色を変える
 description: ログイン画面のテーマ色を緑から変える方法
 published: true
-date: 2023-04-13T11:44:44.215Z
+date: 2024-05-01T05:12:42.410Z
 tags: login, theme, color
 editor: markdown
 dateCreated: 2023-04-13T11:44:44.215Z
