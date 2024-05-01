@@ -2,8 +2,8 @@
 title: Misskey利用規約 ひな形
 description: Misskey利用規約のひな型、及び一年前の記事の再検討を行ったものです。
 published: true
-date: 2024-01-28T21:24:15.871Z
-tags: 
+date: 2024-05-01T04:22:37.690Z
+tags: 利用規約 雛形 terms
 editor: markdown
 dateCreated: 2024-01-28T21:20:16.131Z
 ---
