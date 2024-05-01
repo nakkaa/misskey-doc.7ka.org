@@ -2,8 +2,8 @@
 title: プライバシーポリシーひな形
 description: Misskeyで使う事を想定したプライバシーポリシーのひな形
 published: true
-date: 2023-11-05T21:04:32.959Z
-tags: 
+date: 2024-05-01T04:24:57.459Z
+tags: プライバシーポリシー, 規約, 雛形
 editor: markdown
 dateCreated: 2023-11-05T21:04:32.959Z
 ---
