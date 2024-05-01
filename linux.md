@@ -1,8 +1,8 @@
 ---
-title: Linux関連
+title: Linux
 description: 
 published: true
-date: 2024-05-01T04:35:49.315Z
+date: 2024-05-01T04:36:09.772Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-01T04:19:11.658Z
