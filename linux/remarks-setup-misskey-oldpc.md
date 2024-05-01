@@ -2,7 +2,7 @@
 title: 中古PCでMisskeyインスタンスを建てる際の備考
 description: 
 published: true
-date: 2024-05-01T04:46:01.070Z
+date: 2024-05-01T04:47:25.387Z
 tags: operation, server
 editor: markdown
 dateCreated: 2023-04-07T23:08:27.227Z
