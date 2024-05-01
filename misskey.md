@@ -2,7 +2,7 @@
 title: Misskey
 description: Misskeyに関するtipsを書くカテゴリです。
 published: true
-date: 2024-05-01T04:57:49.263Z
+date: 2024-05-01T05:10:21.614Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-01T04:34:08.299Z
@@ -12,9 +12,16 @@ dateCreated: 2024-05-01T04:34:08.299Z
 
 `[タイトル](タイトル)` みたいな感じでリンクを書いて、ページを作成してください。
 
-## デバッグ
+## バックアップ・デバッグ系
 
-- [misskeyインスタンスを連合せずに建てる](misskey/disable-federation)
+- [シェルスクリプトで外部ストレージにバックアップを取るようにしてみる](backup-bash)
+- [Postgresqlのデータをバックアップする(docker compose)](online-backup-postgresql)
+- [Google Cloud Storageにバックアップする](gcs-backup)
+- [misskeyインスタンスを連合せずに建てる](disable-federation)
+
+## Tips
+
+- [絵文字を一括して編集する](絵文字を一括して編集する)
 
 ## Linux系Tips
 
@@ -23,6 +30,27 @@ dateCreated: 2024-05-01T04:34:08.299Z
 - [メモリーアロケーターをjemallocに変更する](memoryKanri)
 - [中古PCでMisskeyインスタンスを建てる際の備考](remarks-setup-misskey-oldpc)
 
-## 大規模インスタンスの知見
+## メールサーバー
+
+- [無償メールサーバーとしてZOHOmailを利用する](enable-mail-zoho)
+
+## Meilisearch
+
+- [Meilisearchを有効化する](enable-meilisearch)
+
+## オブジェクトストレージ
+
+- [vultrでのオブジェクトストレージ設定](vultrでのオブジェクトストレージ設定)
+- [オブジェクトストレージ(wasabi)の設定方法](object-storage-wasabi)
+
+## Sumamry proxy
+
+- [サマリープロキシを自前で準備する](summaly-proxy)
+
+## 運営の知見
 
 - [2000人までのインスタンス運営](2k-instance)
+
+## 見た目のカスタマイズ
+
+- [Faviconを変更する](change-favicon)
