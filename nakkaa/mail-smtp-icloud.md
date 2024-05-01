@@ -2,7 +2,7 @@
 title: メールサーバーの設定(iCloud編)
 description: MisskeyのメールサーバーにiCloudを指定する
 published: true
-date: 2023-03-30T11:59:31.227Z
+date: 2024-05-01T05:12:04.964Z
 tags: mail, smtp, icloud
 editor: markdown
 dateCreated: 2023-03-25T09:26:10.075Z
