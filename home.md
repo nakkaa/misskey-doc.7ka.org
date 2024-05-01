@@ -2,7 +2,7 @@
 title: Misskey鯖缶Wiki
 description: 
 published: true
-date: 2024-05-01T04:47:05.836Z
+date: 2024-05-01T04:49:32.600Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-25T09:18:07.348Z
@@ -13,7 +13,7 @@ dateCreated: 2023-03-25T09:18:07.348Z
 Misskey鯖缶Wikiは、Misskeyサーバーの管理・運用のナレッジ情報を共有するための非公式なWikiです。
 誰でも閲覧できます。アカウントを作成することで編集もできます。
 
-お試しで編集されたい方は[testページ](/test/test-page)をご利用ください。  
+お試しで編集されたい方は[testページ](/others/test-page)をご利用ください。  
 編集形式はmarkdownを選んでください。
 
 
