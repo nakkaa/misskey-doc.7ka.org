@@ -2,7 +2,7 @@
 title: Postgresqlのデータをバックアップする(docker compose)
 description: 
 published: true
-date: 2023-04-12T13:22:08.097Z
+date: 2024-05-01T05:08:59.689Z
 tags: postgresql, backup
 editor: markdown
 dateCreated: 2023-04-12T13:06:15.219Z
