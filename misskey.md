@@ -2,7 +2,7 @@
 title: Misskey
 description: Misskeyに関するtipsを書くカテゴリです。
 published: true
-date: 2024-05-01T05:10:21.614Z
+date: 2024-05-01T05:14:02.403Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-01T04:34:08.299Z
@@ -22,17 +22,19 @@ dateCreated: 2024-05-01T04:34:08.299Z
 ## Tips
 
 - [絵文字を一括して編集する](絵文字を一括して編集する)
+- [プッシュ通知を有効化する](enable-push-notification)
+- [サマリープロキシを自前で準備する](summaly-proxy)
+- [2000人までのインスタンス運営](2k-instance)
 
-## Linux系Tips
+## 見た目のカスタマイズ
 
-- [Raspberry Pi 4でMisskeyを立てる際のTips](misskey-on-raspberry-pi-4-tips)
-- [Ubuntu系OS本体におけるストレージ補正](ubuntu-storage-ajust)
-- [メモリーアロケーターをjemallocに変更する](memoryKanri)
-- [中古PCでMisskeyインスタンスを建てる際の備考](remarks-setup-misskey-oldpc)
+- [Faviconを変更する](change-favicon)
+- [ログイン画面のテーマ色を変える](change-theme-color)
 
 ## メールサーバー
 
 - [無償メールサーバーとしてZOHOmailを利用する](enable-mail-zoho)
+- [メールサーバーの設定(iCloud編)](mail-smtp-icloud)
 
 ## Meilisearch
 
@@ -43,14 +45,9 @@ dateCreated: 2024-05-01T04:34:08.299Z
 - [vultrでのオブジェクトストレージ設定](vultrでのオブジェクトストレージ設定)
 - [オブジェクトストレージ(wasabi)の設定方法](object-storage-wasabi)
 
-## Sumamry proxy
+## Linux系Tips
 
-- [サマリープロキシを自前で準備する](summaly-proxy)
-
-## 運営の知見
-
-- [2000人までのインスタンス運営](2k-instance)
-
-## 見た目のカスタマイズ
-
-- [Faviconを変更する](change-favicon)
+- [Raspberry Pi 4でMisskeyを立てる際のTips](misskey-on-raspberry-pi-4-tips)
+- [Ubuntu系OS本体におけるストレージ補正](ubuntu-storage-ajust)
+- [メモリーアロケーターをjemallocに変更する](memoryKanri)
+- [中古PCでMisskeyインスタンスを建てる際の備考](remarks-setup-misskey-oldpc)
