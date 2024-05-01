@@ -2,7 +2,7 @@
 title: Misskey鯖缶Wiki
 description: 
 published: true
-date: 2023-10-10T12:26:08.078Z
+date: 2024-05-01T04:02:56.764Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-25T09:18:07.348Z
@@ -19,10 +19,18 @@ Misskey鯖缶Wikiは、Misskeyサーバーの管理・運用のナレッジ情�
 > なるべく正確な情報を記載するように心がけていますが、不正確な情報が含まれている可能性があります。
 > 記載内容を利用する際は自己責任でお願いします。
 
-# 関連サービス
+# サーバー管理者向けコミュニティ
 
-- [ミス鯖工場](https://discord.com/channels/1080371620557901884/)
-  - 直接の関係性はありませんが、Misskeyのサーバー管理者が集まっているDiscordサーバーです。
+ここ以外にもサーバー管理者向けのコミュニティが複数存在します。  
+そのうちのいくつかを紹介します。
+
+- [ミス鯖工場](https://misskey.systems/channels/9bul73n598) (Discord)
+  - にゃご(@cat5e)さんら有志が運営しているMisskeyサーバー管理者向けDiscordです。
+  - 招待リンク切れのため、関係者が滞在するサーバーのチャンネルへのリンクを記載しています。
+- [Misskey鯖缶詰所](https://nijimiss.moe/notes/01HJ17MGD6WMG73YQ2VFXT036Z) (Discord)
+  - 皐月なふさんが運営しているMisskey鯖缶向けのコミュニティです。
+- [鯖缶工場wiki](https://wiki.sabakan.industries) (Wiki/Discord)
+  - ぐすくま(https://abyss.fun/@guskma)さんが運営している、Mastodonを中心とした、分散型SNSのインスタンスの構築やサーバ管理のためのナレッジを蓄積するためのWikiです。
 
 # Misskey関係のお知らせ
 
