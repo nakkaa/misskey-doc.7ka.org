@@ -2,7 +2,7 @@
 title: vultrでのオブジェクトストレージ設定
 description: 
 published: true
-date: 2023-05-21T11:08:15.654Z
+date: 2024-05-01T05:01:15.030Z
 tags: vultr
 editor: markdown
 dateCreated: 2023-05-21T07:56:12.740Z
