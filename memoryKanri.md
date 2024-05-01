@@ -2,8 +2,8 @@
 title: メモリーアロケーターをjemallocに変更する
 description: メモリーアロケーターを変更して効率的にMisskeyのバックエンド処理を行う
 published: true
-date: 2023-08-16T18:04:54.732Z
-tags: 
+date: 2024-05-01T04:28:33.716Z
+tags: jemalloc
 editor: markdown
 dateCreated: 2023-08-16T17:59:36.502Z
 ---
