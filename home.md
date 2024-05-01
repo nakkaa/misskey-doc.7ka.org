@@ -2,7 +2,7 @@
 title: Misskey鯖缶Wiki
 description: 
 published: true
-date: 2024-05-01T04:31:57.536Z
+date: 2024-05-01T04:39:37.090Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-25T09:18:07.348Z
@@ -20,6 +20,13 @@ Misskey鯖缶Wikiは、Misskeyサーバーの管理・運用のナレッジ情�
 > **:warning: 注意事項**
 > なるべく正確な情報を記載するように心がけていますが、不正確な情報が含まれている可能性があります。
 > 記載内容を利用する際は自己責任でお願いします。
+
+# カテゴリ
+
+- [Misskey](misskey) ... Misskeyに関係する記事はこちら。
+- [Linux](linux) ... Linux関係、Postgresql、Redis、Nginx、Meilisearchなどミドルウェアの設定全般についてはこちら。
+- [規約の雛形](terms) ... 利用規約やプライバシーポリシーの雛形はこちら。
+- [その他](others) ... 上記カテゴリ以外はこちらへ。
 
 # ページの作り方
 
