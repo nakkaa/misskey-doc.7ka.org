@@ -2,7 +2,7 @@
 title: シェルスクリプトで外部ストレージにバックアップを取るようにしてみる
 description: 要：rcloneで外部のストレージとの接続
 published: true
-date: 2023-06-18T10:36:39.641Z
+date: 2024-05-01T05:03:59.955Z
 tags: バックアップ
 editor: markdown
 dateCreated: 2023-06-18T09:54:09.719Z
