@@ -2,7 +2,7 @@
 title: Ubuntu系OS本体におけるストレージ補正
 description: 
 published: true
-date: 2024-05-01T04:42:20.772Z
+date: 2024-05-01T04:48:08.700Z
 tags: server, ubuntu
 editor: markdown
 dateCreated: 2023-04-07T23:13:18.191Z
