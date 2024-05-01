@@ -2,7 +2,7 @@
 title: オブジェクトストレージ(wasabi)の設定方法
 description: 
 published: true
-date: 2023-04-04T13:58:22.486Z
+date: 2024-05-01T05:09:50.845Z
 tags: wasabi, objectstorage
 editor: markdown
 dateCreated: 2023-04-04T13:48:56.154Z
