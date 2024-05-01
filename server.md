@@ -2,15 +2,15 @@
 title: サーバー
 description: 
 published: true
-date: 2024-05-01T04:41:22.567Z
+date: 2024-05-01T04:41:45.411Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-01T04:19:11.658Z
 ---
 
-# Linux
+# サーバー関係
 
-Linux(nginx、postgresql、redisなどのミドルウェア)に関するカテゴリです。
+Linuxなどのサーバーに関するカテゴリです。
 `[タイトル](url)` みたいな感じでリンクを作ってください。
 
 - [Ubuntu系OS本体におけるストレージ補正](ubuntu-storage-ajust)
