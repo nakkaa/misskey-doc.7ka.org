@@ -2,7 +2,7 @@
 title: Misskey
 description: Misskeyに関するtipsを書くカテゴリです。
 published: true
-date: 2024-05-01T05:14:02.403Z
+date: 2024-05-01T05:14:16.054Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-01T04:34:08.299Z
@@ -17,13 +17,13 @@ dateCreated: 2024-05-01T04:34:08.299Z
 - [シェルスクリプトで外部ストレージにバックアップを取るようにしてみる](backup-bash)
 - [Postgresqlのデータをバックアップする(docker compose)](online-backup-postgresql)
 - [Google Cloud Storageにバックアップする](gcs-backup)
-- [misskeyインスタンスを連合せずに建てる](disable-federation)
 
 ## Tips
 
 - [絵文字を一括して編集する](絵文字を一括して編集する)
 - [プッシュ通知を有効化する](enable-push-notification)
 - [サマリープロキシを自前で準備する](summaly-proxy)
+- [misskeyインスタンスを連合せずに建てる](disable-federation)
 - [2000人までのインスタンス運営](2k-instance)
 
 ## 見た目のカスタマイズ
