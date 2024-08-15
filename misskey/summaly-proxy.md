@@ -2,7 +2,7 @@
 title: サマリープロキシを自前で準備する
 description: サマリープロキシをMisskey本体のじゃなくて外部のやつ使いたいときのメモ
 published: true
-date: 2024-05-01T04:59:32.597Z
+date: 2024-08-15T12:28:43.236Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-05T20:43:39.452Z
@@ -108,7 +108,7 @@ WantedBy=multi-user.target
 
 `sudo systemctl daemon-reload`
 
-`sudo systemctl enabled sumally.service`
+`sudo systemctl enable summaly.service`
 
 `sudo systemctl start summaly.service`
 
