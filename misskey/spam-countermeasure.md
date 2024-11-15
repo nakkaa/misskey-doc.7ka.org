@@ -2,7 +2,7 @@
 title: スパム対策の手引き
 description: 無差別メンションスパム対策についてまとめたページです。
 published: true
-date: 2024-11-15T16:45:38.024Z
+date: 2024-11-15T16:58:04.273Z
 tags: spam
 editor: markdown
 dateCreated: 2024-11-15T16:31:17.494Z
@@ -14,7 +14,8 @@ dateCreated: 2024-11-15T16:31:17.494Z
 
 ## スパム送信者の排除
 
-まず、スパムアカウントをサーバーに登録させない(攻撃の踏み台にしない)ことが大切です。この項目では、スパム送信者の登録を防ぐための手段について、いくつか記載します。
+まず、スパムアカウントをサーバーに登録させない(攻撃の踏み台にならない)ことが大切です。  
+この項目では、スパム送信者の登録を防ぐための手段について、いくつか記載します。
 
 ### 誰でも新規登録をできないようにする
 
@@ -37,8 +38,19 @@ dateCreated: 2024-11-15T16:31:17.494Z
 
 - [t1nyb0x/misskey-admin-notify-webhook-for-discord: Notify to discord webhook from Misskey](https://github.com/t1nyb0x/misskey-admin-notify-webhook-for-discord)
 
+## スパム発信源となった場合
+
+登録を招待制にし、スパムアカウントを削除します。  
+対応後に周知すると連合再開がスムーズになるかもしれません。
+
 ## ユーザーの保護
+
+この項目では、スパムの受信被害を軽減する対策について、表立って書ける機能について紹介します。
 
 ### 禁止ワードの設定
 
 コントロールパネルのモデレーションから禁止ワードの指定ができます。
+
+## 参考情報
+
+- [2024年に発生しているメンションを主に行うスパムに対する課題点の整理・対策について (Organizing and addressing problems and solutions to spam that are occurring in 2024) · misskey-dev/misskey · Discussion #14968](https://github.com/misskey-dev/misskey/discussions/14968)
