@@ -1,8 +1,8 @@
 ---
 title: スパム対策の手引き
 description: 無差別メンションスパム対策についてまとめたページです。
-published: false
-date: 2024-11-15T16:42:30.896Z
+published: true
+date: 2024-11-15T16:43:20.352Z
 tags: spam
 editor: markdown
 dateCreated: 2024-11-15T16:31:17.494Z
