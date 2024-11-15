@@ -2,7 +2,7 @@
 title: スパム対策の手引き
 description: 無差別メンションスパム対策についてまとめたページです。
 published: true
-date: 2024-11-15T16:36:50.459Z
+date: 2024-11-15T16:40:09.947Z
 tags: spam
 editor: markdown
 dateCreated: 2024-11-15T16:31:17.494Z
@@ -38,3 +38,11 @@ dateCreated: 2024-11-15T16:31:17.494Z
 - [t1nyb0x/misskey-admin-notify-webhook-for-discord: Notify to discord webhook from Misskey](https://github.com/t1nyb0x/misskey-admin-notify-webhook-for-discord)
 
 ## ユーザーの保護
+
+### 禁止ワードの設定
+
+コントロールパネルのモデレーションから禁止ワードの指定ができます。
+
+### メンション最大数の制限
+
+### リモートからのメンション拒否
