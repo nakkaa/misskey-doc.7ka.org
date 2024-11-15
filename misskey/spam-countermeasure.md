@@ -2,7 +2,7 @@
 title: スパム対策の手引き
 description: 無差別メンションスパム対策についてまとめたページです。
 published: true
-date: 2024-11-15T16:31:17.494Z
+date: 2024-11-15T16:36:50.459Z
 tags: spam
 editor: markdown
 dateCreated: 2024-11-15T16:31:17.494Z
@@ -10,7 +10,7 @@ dateCreated: 2024-11-15T16:31:17.494Z
 
 # スパム対策の手引き
 
-
+無差別メンションスパム対策についてまとめたページです。
 
 ## スパム送信者の排除
 
@@ -24,13 +24,17 @@ dateCreated: 2024-11-15T16:31:17.494Z
 
 ### 登録時にメールアドレスを必須にする
 
-以下のような使い捨てメールアドレスのドメインを、ブラックリストに登録することで、アカウント作成を軽減できる可能性があります。
+使い捨てメールアドレスのドメインを、ブラックリストに登録することで、アカウント作成を軽減できる可能性があります。
 
-https://github.com/disposable-email-domains/disposable-email-domains/tree/main
+使い捨てのドメイン一覧は[disposable-email-domains: a list of disposable and temporary email address domains](https://github.com/disposable-email-domains/disposable-email-domains/tree/main)が参考になります。
 
 ドメインのブラックリストは、コントロールパネルのセキュリティで登録できます。
 
 ### 新規登録時にWebhookで通知を送る
 
+新規ユーザー登録があった際に、Discordなどに通知を送ることで、大量のアカウント作成などの異常事態に気付く可能性があがります。  
+有志がCloudflare workersと組み合わせて動作するスクリプトを公開しています。
+
+- [t1nyb0x/misskey-admin-notify-webhook-for-discord: Notify to discord webhook from Misskey](https://github.com/t1nyb0x/misskey-admin-notify-webhook-for-discord)
 
 ## ユーザーの保護
