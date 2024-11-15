@@ -2,7 +2,7 @@
 title: Misskey鯖缶Wiki
 description: 
 published: true
-date: 2024-11-15T16:00:01.481Z
+date: 2024-11-15T16:15:46.608Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-25T09:18:07.348Z
@@ -58,6 +58,6 @@ Wikiのバックアップは[GitHub](https://github.com/nakkaa/misskey-doc.7ka.o
 
 # 連絡先
 
-Wikiの運用や維持は[なっかあ](https://misskey.systems/@_nakkaa)が行っています。何かありましたらご連絡ください。  
+- Wikiの運用や維持は[なっかあ](https://misskey.7ka.org/@nakkaa)が行っています。何かありましたらご連絡ください。  
 
 当サイトはリンクフリーです。
