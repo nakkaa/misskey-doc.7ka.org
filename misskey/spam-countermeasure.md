@@ -2,7 +2,7 @@
 title: スパム対策の手引き
 description: 無差別メンションスパム対策についてまとめたページです。
 published: true
-date: 2024-11-15T17:05:59.674Z
+date: 2024-11-15T17:12:26.382Z
 tags: spam
 editor: markdown
 dateCreated: 2024-11-15T16:31:17.494Z
@@ -39,7 +39,7 @@ dateCreated: 2024-11-15T16:31:17.494Z
 
 ### 新規登録時にWebhookで通知を送る
 
-新規ユーザー登録があった際に、Discordなどに通知を送ることで、大量のアカウント作成などの異常事態に気付く可能性があがります。  
+新規ユーザー登録があった際に、Discordなどに通知を送ることで、大量のアカウント作成などの異常事態に気付きやすくします。  
 有志がCloudflare workersと組み合わせて動作するスクリプトを公開しています。
 
 - [t1nyb0x/misskey-admin-notify-webhook-for-discord: Notify to discord webhook from Misskey](https://github.com/t1nyb0x/misskey-admin-notify-webhook-for-discord)
