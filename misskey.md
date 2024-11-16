@@ -2,7 +2,7 @@
 title: Misskey
 description: Misskeyに関するtipsを書くカテゴリです。
 published: true
-date: 2024-10-10T17:11:20.910Z
+date: 2024-11-16T09:22:53.897Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-01T04:34:08.299Z
@@ -14,7 +14,7 @@ dateCreated: 2024-05-01T04:34:08.299Z
 
 ## メンテナンス
 
-- [PostgreSQLのチューニングをする](psql-tune)
+- [PostgreSQLのチューニング・メンテナンス](psql-tune)
 
 ## データのバックアップ・リストア
 
@@ -39,6 +39,7 @@ dateCreated: 2024-05-01T04:34:08.299Z
 
 ## Misskey Tips
 
+- [スパム対策の手引き](spam-countermeasure)
 - [絵文字を一括して編集する](絵文字を一括して編集する)
 - [プッシュ通知を有効化する](enable-push-notification)
 - [サマリープロキシを自前で準備する](summaly-proxy)
