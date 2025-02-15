@@ -2,7 +2,7 @@
 title: Misskey鯖缶Wiki
 description: 
 published: true
-date: 2025-02-15T03:58:32.051Z
+date: 2025-02-15T04:01:46.043Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-25T09:18:07.348Z
@@ -70,7 +70,7 @@ Misskey鯖缶Wikiは、Misskeyサーバーの管理・運用のナレッジ情�
 
 ## Linux系Tips
 
-- [Raspberry Pi 4でMisskeyを立てる際のTips](misskey-on-raspberry-pi-4-tips)
-- [Ubuntu系OS本体におけるストレージ補正](ubuntu-storage-ajust)
-- [メモリーアロケーターをjemallocに変更する](memoryKanri)
-- [中古PCでMisskeyインスタンスを建てる際の備考](remarks-setup-misskey-oldpc)
+- [Raspberry Pi 4でMisskeyを立てる際のTips](linux/misskey-on-raspberry-pi-4-tips)
+- [Ubuntu系OS本体におけるストレージ補正](linux/ubuntu-storage-ajust)
+- [メモリーアロケーターをjemallocに変更する](linux/memoryKanri)
+- [中古PCでMisskeyインスタンスを建てる際の備考](linux/remarks-setup-misskey-oldpc)
