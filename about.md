@@ -2,7 +2,7 @@
 title: 当Wikiについて
 description: 
 published: true
-date: 2025-02-15T04:09:18.973Z
+date: 2025-02-15T04:10:09.181Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-15T03:53:21.530Z
@@ -13,7 +13,7 @@ dateCreated: 2025-02-15T03:53:21.530Z
 Misskey鯖缶Wikiは、Misskeyサーバーの管理・運用のナレッジ情報を共有するための非公式なWikiです。
 誰でも閲覧できます。アカウントを作成することで編集もできます。作成にはGitHubまたはDiscordのアカウントが必要です。
 
-お試しで編集されたい方は[testページ](/others/test-page)をご利用ください。  
+お試しで編集されたい方は[testページ](/test-page)をご利用ください。  
 
 万が一このWikiが滅んでも誰かが引き継げるように、Wikiのバックアップは[GitHub](https://github.com/nakkaa/misskey-doc.7ka.org)に取っています。  
 編集履歴は全て公開で残ります。個人情報は記載しないでください。  
