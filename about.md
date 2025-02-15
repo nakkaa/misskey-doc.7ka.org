@@ -2,7 +2,7 @@
 title: 当Wikiについて
 description: 
 published: true
-date: 2025-02-15T04:10:09.181Z
+date: 2025-02-15T04:20:07.009Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-15T03:53:21.530Z
@@ -18,33 +18,20 @@ Misskey鯖缶Wikiは、Misskeyサーバーの管理・運用のナレッジ情�
 万が一このWikiが滅んでも誰かが引き継げるように、Wikiのバックアップは[GitHub](https://github.com/nakkaa/misskey-doc.7ka.org)に取っています。  
 編集履歴は全て公開で残ります。個人情報は記載しないでください。  
 
-
-> **:warning: 注意事項**
-> なるべく正確な情報を記載するように心がけていますが、不正確な情報が含まれている可能性があります。
-> 記載内容を利用する際は自己責任でお願いします。
-
 # ページの作り方
 
-1. カテゴリページに移動します。(Misskey関係ならば、[Misskey](misskey)です。)
-2. カテゴリページの編集画面を開き、 `[タイトル](タイトル)` を入力して保存します。
-3. 新しく追加されたリンクをクリックし、新規ページを作成します。(編集形式はmarkdownを選んでください。)
+1. ページ右上の「新規作成」をクリックします。
+2. 仮想フォルダからカテゴリを選びます。
+  - カテゴリ名は `misskey`、`linux`、`postgresql`、`search`、`terms` があります。的したものがなければ新規追加してください。
+3. カテゴリを選んだら、下側にあるバーを選択しページ名を編集します。
+  - `<カテゴリ名>/new-page`の`new-page`の部分を変更します。
+  - ページ名は内容が伝わるかつ英数字で短めが良いです。
+4. 選択ボタンをクリックします。
+5. 「このページにどのエディタを使用しますか？」と聞かれるため、「Markdown」を選びます。
+6. ページタイトルを記載し「OK」をクリックします。
+7. ページに内容を記載し、完了したら右上の「作成」をクリックします。
 
-# サーバー管理者向けコミュニティ
-
-ここ以外にもサーバー管理者向けのコミュニティが複数存在します。  
-そのうちのいくつかを紹介します。
-
-- [鯖缶工場wiki](https://wiki.sabakan.industries) (Wiki/Discord)
-  - [ぐすくま](https://abyss.fun/@guskma)さんが運営している、Mastodonを中心とした、分散型SNSのインスタンスの構築やサーバ管理のためのナレッジを蓄積するためのWikiです。
-
-- [ミス鯖工場](https://misskey.systems/channels/9bul73n598) (Discord)
-  - [にゃご](https://summary.ink/@cat)さんら有志が運営しているMisskeyサーバー管理者向けDiscordです。
-  - Discord[招待リンク](https://discord.gg/k4twHFp2aE)
-
-- [Misskey鯖缶詰所](https://nijimiss.moe/notes/01HJ17MGD6WMG73YQ2VFXT036Z) (Discord)
-  - [皐月なふ](https://nijimiss.moe/@nafu_at)さんが運営しているMisskey鯖缶向けのコミュニティです。
-
-また、サーバー管理者向けではないですが、脆弱性情報などを取り扱っているアカウント「[fedimagazine.info](https://fedimagazine.info/@antenna)」もあります。
+# 
 
 # 連絡先
 
