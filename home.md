@@ -2,7 +2,7 @@
 title: Misskey鯖缶Wiki
 description: 
 published: true
-date: 2025-02-15T04:08:17.378Z
+date: 2025-02-15T04:11:19.676Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-25T09:18:07.348Z
@@ -64,7 +64,7 @@ Misskey鯖缶Wikiは、Misskeyサーバーの管理・運用のナレッジ情�
 - [misskeyインスタンスを連合せずに建てる](misskey/disable-federation)
 - [2000人までのインスタンス運営](misskey/2k-instance)
 
-## Meilisearch
+## 検索機能強化
 
 - [Meilisearchを有効化する](search/enable-meilisearch)
 
