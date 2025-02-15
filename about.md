@@ -1,8 +1,8 @@
 ---
-title: Misskey鯖缶Wikiについて
+title: 当Wikiについて
 description: 
 published: true
-date: 2025-02-15T03:53:21.530Z
+date: 2025-02-15T03:53:44.597Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-15T03:53:21.530Z
