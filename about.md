@@ -2,7 +2,7 @@
 title: 当Wikiについて
 description: 
 published: true
-date: 2025-02-15T04:31:33.885Z
+date: 2025-02-15T04:52:01.640Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-15T03:53:21.530Z
@@ -17,6 +17,8 @@ Misskey鯖缶Wikiは、Misskeyサーバーの管理・運用のナレッジ情�
 
 万が一このWikiが滅んでも誰かが引き継げるように、Wikiのバックアップは[GitHub](https://github.com/nakkaa/misskey-doc.7ka.org)に取っています。  
 編集履歴は全て公開で残ります。個人情報は記載しないでください。  
+
+当サイトはリンクフリーです。
 
 # ページの新規作成
 
@@ -39,7 +41,4 @@ Misskey鯖缶Wikiは、Misskeyサーバーの管理・運用のナレッジ情�
 
 # 連絡先
 
-- Wikiの運用や維持は[なっかあ](https://misskey.7ka.org/@nakkaa)が趣味で行っています。何かありましたらご連絡ください。  
-- 運営の引き継ぎ、公式への統合は大歓迎です！
-
-当サイトはリンクフリーです。
+- Wikiの運用は個人が趣味で行っています。何かありましたら[アナヒビソーシャル](https://anahibi.7ka.org/)へご連絡ください。
