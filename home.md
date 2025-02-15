@@ -2,7 +2,7 @@
 title: Misskey鯖缶Wiki
 description: 
 published: true
-date: 2024-11-22T09:32:09.649Z
+date: 2025-02-15T03:55:18.372Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-25T09:18:07.348Z
@@ -10,55 +10,55 @@ dateCreated: 2023-03-25T09:18:07.348Z
 
 # Misskey鯖缶Wikiへようこそ
 
-Misskey鯖缶Wikiは、Misskeyサーバーの管理・運用のナレッジ情報を共有するための非公式なWikiです。
-誰でも閲覧できます。アカウントを作成することで編集もできます。
-
-お試しで編集されたい方は[testページ](/others/test-page)をご利用ください。  
-
-万が一このWikiが滅んでも誰かが引き継げるように、Wikiのバックアップは[GitHub](https://github.com/nakkaa/misskey-doc.7ka.org)に取っています。  
-編集履歴は全て公開で残ります。個人情報は記載しないでください。  
+Misskey鯖缶Wikiは、Misskeyサーバーの管理・運用のナレッジ情報を共有するための非公式なWikiです。  
+詳しくは[当Wikiについて](/about)へ。
 
 
 > **:warning: 注意事項**
 > なるべく正確な情報を記載するように心がけていますが、不正確な情報が含まれている可能性があります。
 > 記載内容を利用する際は自己責任でお願いします。
 
-# カテゴリ
-
-- [Misskey](misskey) ... Misskeyに関係する記事はこちら。
-- [規約の雛形](terms) ... 利用規約やプライバシーポリシーの雛形はこちら。
-- [その他](others) ... 上記カテゴリ以外はこちらへ。
-
-# ページの作り方
-
-1. カテゴリページに移動します。(Misskey関係ならば、[Misskey](misskey)です。)
-2. カテゴリページの編集画面を開き、 `[タイトル](タイトル)` を入力して保存します。
-3. 新しく追加されたリンクをクリックし、新規ページを作成します。(編集形式はmarkdownを選んでください。)
-
 # 脆弱性情報
 
 - Misskeyの脆弱性情報は[Security Advisories · misskey-dev/misskey](https://github.com/misskey-dev/misskey/security/advisories)で確認できます。  
 - 脆弱性対応のため、Misskey 2024.11.0以上にバージョンアップすることを推奨します。(2024/11/22現在)
   
-# サーバー管理者向けコミュニティ
 
-ここ以外にもサーバー管理者向けのコミュニティが複数存在します。  
-そのうちのいくつかを紹介します。
+# カテゴリ
 
-- [鯖缶工場wiki](https://wiki.sabakan.industries) (Wiki/Discord)
-  - [ぐすくま](https://abyss.fun/@guskma)さんが運営している、Mastodonを中心とした、分散型SNSのインスタンスの構築やサーバ管理のためのナレッジを蓄積するためのWikiです。
+`[タイトル](リンク)` みたいな感じでリンクを書いて、ページを作成してください。
 
-- [ミス鯖工場](https://misskey.systems/channels/9bul73n598) (Discord)
-  - [にゃご](https://summary.ink/@cat)さんら有志が運営しているMisskeyサーバー管理者向けDiscordです。
-  - 招待リンク切れのため、関係者が滞在するサーバーのチャンネルへのリンクを記載しています。
+## メールサーバー
 
-- [Misskey鯖缶詰所](https://nijimiss.moe/notes/01HJ17MGD6WMG73YQ2VFXT036Z) (Discord)
-  - [皐月なふ](https://nijimiss.moe/@nafu_at)さんが運営しているMisskey鯖缶向けのコミュニティです。
+- [無償メールサーバーとしてZOHOmailを利用する](enable-mail-zoho)
+- [メールサーバーの設定(iCloud編)](mail-smtp-icloud)
 
-また、サーバー管理者向けではないですが、脆弱性情報などを取り扱っているアカウント「[fedimagazine.info](https://fedimagazine.info/@antenna)」もあります。
+## オブジェクトストレージ
 
-# 連絡先
+- [vultrでのオブジェクトストレージ設定](vultrでのオブジェクトストレージ設定)
+- [オブジェクトストレージ(wasabi)の設定方法](object-storage-wasabi)
 
-- Wikiの運用や維持は[なっかあ](https://misskey.7ka.org/@nakkaa)が行っています。何かありましたらご連絡ください。  
+## 見た目のカスタマイズ
 
-当サイトはリンクフリーです。
+- [Faviconを変更する](change-favicon)
+- [ログイン画面のテーマ色を変える](change-theme-color)
+
+## Misskey Tips
+
+- [スパム対策の手引き](spam-countermeasure)
+- [絵文字を一括して編集する](絵文字を一括して編集する)
+- [プッシュ通知を有効化する](enable-push-notification)
+- [サマリープロキシを自前で準備する](summaly-proxy)
+- [misskeyインスタンスを連合せずに建てる](disable-federation)
+- [2000人までのインスタンス運営](2k-instance)
+
+## Meilisearch
+
+- [Meilisearchを有効化する](enable-meilisearch)
+
+## Linux系Tips
+
+- [Raspberry Pi 4でMisskeyを立てる際のTips](misskey-on-raspberry-pi-4-tips)
+- [Ubuntu系OS本体におけるストレージ補正](ubuntu-storage-ajust)
+- [メモリーアロケーターをjemallocに変更する](memoryKanri)
+- [中古PCでMisskeyインスタンスを建てる際の備考](remarks-setup-misskey-oldpc)
