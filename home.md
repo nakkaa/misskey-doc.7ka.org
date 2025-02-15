@@ -2,7 +2,7 @@
 title: Misskey鯖缶Wiki
 description: 
 published: true
-date: 2025-02-15T03:55:18.372Z
+date: 2025-02-15T03:56:06.653Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-25T09:18:07.348Z
@@ -26,7 +26,7 @@ Misskey鯖缶Wikiは、Misskeyサーバーの管理・運用のナレッジ情�
 
 # カテゴリ
 
-`[タイトル](リンク)` みたいな感じでリンクを書いて、ページを作成してください。
+`[タイトル](カテゴリ名/リンク)` みたいな感じでリンクを書いて、ページを作成してください。
 
 ## メールサーバー
 
