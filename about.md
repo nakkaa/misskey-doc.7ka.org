@@ -2,7 +2,7 @@
 title: 当Wikiについて
 description: 
 published: true
-date: 2025-02-15T04:25:34.675Z
+date: 2025-02-15T04:27:08.354Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-15T03:53:21.530Z
@@ -22,7 +22,7 @@ Misskey鯖缶Wikiは、Misskeyサーバーの管理・運用のナレッジ情�
 
 1. ページ右上の「新規作成」をクリックします。
 2. 仮想フォルダからカテゴリを選びます。
-  - カテゴリ名は `misskey`、`linux`、`postgresql`、`search`、`terms` があります。的したものがなければ新規追加してください。
+  - カテゴリは現時点で `misskey`、`linux`、`postgresql`、`search`、`terms` があります。記事が現存のカテゴリに適さない場合には新規追加してください。
 3. カテゴリを選んだら、下側にあるバーを選択しページ名を編集します。
   - `<カテゴリ名>/new-page`の`new-page`の部分を変更します。
   - ページ名は内容が伝わるかつ英数字で短めが良いです。
