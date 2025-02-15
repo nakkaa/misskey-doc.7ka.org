@@ -2,7 +2,7 @@
 title: Misskey鯖缶Wiki
 description: 
 published: true
-date: 2025-02-15T04:11:58.510Z
+date: 2025-02-15T04:20:30.927Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-25T09:18:07.348Z
@@ -22,7 +22,23 @@ Misskey鯖缶Wikiは、Misskeyサーバーの管理・運用のナレッジ情�
 
 - Misskeyの脆弱性情報は[Security Advisories · misskey-dev/misskey](https://github.com/misskey-dev/misskey/security/advisories)で確認できます。  
 - 脆弱性対応のため、Misskey 2024.11.0以上にバージョンアップすることを推奨します。(2024/11/22現在)
-  
+
+# サーバー管理者向けコミュニティ
+
+ここ以外にもサーバー管理者向けのコミュニティが複数存在します。  
+そのうちのいくつかを紹介します。
+
+- [鯖缶工場wiki](https://wiki.sabakan.industries) (Wiki/Discord)
+  - [ぐすくま](https://abyss.fun/@guskma)さんが運営している、Mastodonを中心とした、分散型SNSのインスタンスの構築やサーバ管理のためのナレッジを蓄積するためのWikiです。
+
+- [ミス鯖工場](https://misskey.systems/channels/9bul73n598) (Discord)
+  - [にゃご](https://summary.ink/@cat)さんら有志が運営しているMisskeyサーバー管理者向けDiscordです。
+  - Discord[招待リンク](https://discord.gg/k4twHFp2aE)
+
+- [Misskey鯖缶詰所](https://nijimiss.moe/notes/01HJ17MGD6WMG73YQ2VFXT036Z) (Discord)
+  - [皐月なふ](https://nijimiss.moe/@nafu_at)さんが運営しているMisskey鯖缶向けのコミュニティです。
+
+また、サーバー管理者向けではないですが、脆弱性情報などを取り扱っているアカウント「[fedimagazine.info](https://fedimagazine.info/@antenna)」もあります。
 
 # カテゴリ
 
