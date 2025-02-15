@@ -2,7 +2,7 @@
 title: Misskey鯖缶Wiki
 description: 
 published: true
-date: 2025-02-15T04:20:52.102Z
+date: 2025-02-15T04:23:24.408Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-25T09:18:07.348Z
@@ -10,8 +10,9 @@ dateCreated: 2023-03-25T09:18:07.348Z
 
 # Misskey鯖缶Wikiへようこそ
 
-Misskey鯖缶Wikiは、Misskeyサーバーの管理・運用のナレッジ情報を共有するための非公式なWikiです。  
-詳しくは[当Wikiについて](/about)へ。
+Misskey鯖缶Wikiは、Misskeyサーバーの管理・運用のナレッジ情報を共有するための非公式なWikiです。詳しくは[当Wikiについて](/about)へ。 
+
+当Wikiと直接は関係ありませんが、他にも[サーバー管理者向けコミュニティ](/ref)があります。あわせてご確認ください。
 
 
 > **:warning: 注意事項**
