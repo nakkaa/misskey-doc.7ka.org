@@ -2,7 +2,7 @@
 title: Misskey鯖缶Wiki
 description: 
 published: true
-date: 2025-02-15T04:01:46.043Z
+date: 2025-02-15T04:08:17.378Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-25T09:18:07.348Z
@@ -42,31 +42,31 @@ Misskey鯖缶Wikiは、Misskeyサーバーの管理・運用のナレッジ情�
 
 ## メールサーバー
 
-- [無償メールサーバーとしてZOHOmailを利用する](enable-mail-zoho)
-- [メールサーバーの設定(iCloud編)](mail-smtp-icloud)
+- [無償メールサーバーとしてZOHOmailを利用する](misskey/enable-mail-zoho)
+- [メールサーバーの設定(iCloud編)](misskey/mail-smtp-icloud)
 
 ## オブジェクトストレージ
 
-- [vultrでのオブジェクトストレージ設定](vultrでのオブジェクトストレージ設定)
-- [オブジェクトストレージ(wasabi)の設定方法](object-storage-wasabi)
+- [vultrでのオブジェクトストレージ設定](misskey/vultrでのオブジェクトストレージ設定)
+- [オブジェクトストレージ(wasabi)の設定方法](misskey/object-storage-wasabi)
 
 ## 見た目のカスタマイズ
 
-- [Faviconを変更する](change-favicon)
-- [ログイン画面のテーマ色を変える](change-theme-color)
+- [Faviconを変更する](misskey/change-favicon)
+- [ログイン画面のテーマ色を変える](misskey/change-theme-color)
 
 ## Misskey Tips
 
-- [スパム対策の手引き](spam-countermeasure)
-- [絵文字を一括して編集する](絵文字を一括して編集する)
-- [プッシュ通知を有効化する](enable-push-notification)
-- [サマリープロキシを自前で準備する](summaly-proxy)
-- [misskeyインスタンスを連合せずに建てる](disable-federation)
-- [2000人までのインスタンス運営](2k-instance)
+- [スパム対策の手引き](misskey/spam-countermeasure)
+- [絵文字を一括して編集する](misskey/絵文字を一括して編集する)
+- [プッシュ通知を有効化する](misskey/enable-push-notification)
+- [サマリープロキシを自前で準備する](misskey/summaly-proxy)
+- [misskeyインスタンスを連合せずに建てる](misskey/disable-federation)
+- [2000人までのインスタンス運営](misskey/2k-instance)
 
 ## Meilisearch
 
-- [Meilisearchを有効化する](enable-meilisearch)
+- [Meilisearchを有効化する](search/enable-meilisearch)
 
 ## Linux系Tips
 
