@@ -2,7 +2,7 @@
 title: 当Wikiについて
 description: 
 published: true
-date: 2025-02-15T03:53:44.597Z
+date: 2025-02-15T03:57:18.628Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-15T03:53:21.530Z
@@ -50,7 +50,7 @@ Misskey鯖缶Wikiは、Misskeyサーバーの管理・運用のナレッジ情�
 
 - [ミス鯖工場](https://misskey.systems/channels/9bul73n598) (Discord)
   - [にゃご](https://summary.ink/@cat)さんら有志が運営しているMisskeyサーバー管理者向けDiscordです。
-  - 招待リンク切れのため、関係者が滞在するサーバーのチャンネルへのリンクを記載しています。
+  - Discord[招待リンク](https://discord.gg/k4twHFp2aE)
 
 - [Misskey鯖缶詰所](https://nijimiss.moe/notes/01HJ17MGD6WMG73YQ2VFXT036Z) (Discord)
   - [皐月なふ](https://nijimiss.moe/@nafu_at)さんが運営しているMisskey鯖缶向けのコミュニティです。
