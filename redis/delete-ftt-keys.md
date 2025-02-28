@@ -2,7 +2,7 @@
 title: FTT(Misskey Fanout Timeline)のキャッシュを消す
 description: 
 published: true
-date: 2025-02-28T13:29:24.461Z
+date: 2025-02-28T13:32:56.260Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-28T13:22:13.715Z
@@ -55,7 +55,8 @@ redis-cli -a "$REDIS_PASSWORD" -p 6379 --scan --pattern "*:list:userListTimeline
 Grokに聞いたが、
 > KEYSは全データをスキャンするので、大きなRedisインスタンスでは避けたほうがいいです。その代わりにSCANコマンドを使うと、少しずつキーを取得して処理できます。
 
-とのこと。でも、[Redis の SCAN のコストに注意しよう #Redis - Qiita](https://qiita.com/ssc-ksaitou/items/5507f0f44b0bc4bd9f12)を見るとKEYSでも変わらんかも。事前に検証環境で試すと良いかもしれない。私は本番環境でやったが。
+とのこと。
+[Redis の SCAN のコストに注意しよう #Redis - Qiita](https://qiita.com/ssc-ksaitou/items/5507f0f44b0bc4bd9f12)を見るとcountで指定した方がいいかも。事前に検証環境で試すと良いかもしれない。私は本番環境でやったが。
 
 
 ## 確認
