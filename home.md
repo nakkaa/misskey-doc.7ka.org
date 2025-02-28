@@ -2,7 +2,7 @@
 title: Misskey鯖缶Wiki
 description: 
 published: true
-date: 2025-02-15T04:27:48.531Z
+date: 2025-02-28T13:11:48.286Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-25T09:18:07.348Z
@@ -64,6 +64,10 @@ Misskey鯖缶Wikiは、Misskeyサーバーの管理・運用のナレッジ情�
 - [サマリープロキシを自前で準備する](misskey/summaly-proxy)
 - [misskeyインスタンスを連合せずに建てる](misskey/disable-federation)
 - [2000人までのインスタンス運営](misskey/2k-instance)
+
+## Redis
+
+- [FTTのキャッシュを消す](redis/delete-ftt-keys)
 
 ## Melisearch
 
