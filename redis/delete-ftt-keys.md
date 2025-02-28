@@ -2,7 +2,7 @@
 title: FTT(Misskey Fanout Timeline)のキャッシュを消す
 description: 
 published: true
-date: 2025-02-28T13:22:13.715Z
+date: 2025-02-28T13:22:43.892Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-28T13:22:13.715Z
@@ -12,7 +12,7 @@ dateCreated: 2025-02-28T13:22:13.715Z
 
 Misskeyには[Fan-out Timeline Technology (FTT) | Misskey Hub](https://misskey-hub.net/ja/docs/for-admin/features/ftt/)という負荷軽減機能がある。
 この機能を無効化して再び有効化すると、キャッシュが残っているため無効化時点の古いタイムラインが表示されてしまう。(無効化から再有効化までの期間の投稿が表示されなくなる。)
-時間経過で解消するとはいえ、不便ではあるため、キャッシュを消す方法をメモしておく。
+時間経過で解消するが不便ではあるため、キャッシュを消す方法をメモしておく。
 
 ## 前提条件
 
