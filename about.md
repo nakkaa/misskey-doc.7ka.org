@@ -2,7 +2,7 @@
 title: 当Wikiについて
 description: 
 published: true
-date: 2025-02-17T12:22:34.189Z
+date: 2025-04-13T07:00:41.944Z
 tags: 
 editor: markdown
 dateCreated: 2025-02-15T03:53:21.530Z
@@ -39,9 +39,9 @@ Misskey鯖缶Wikiは、Misskeyサーバーの管理・運用のナレッジ情�
 # ページの編集
 
 1. ページ右上の「ページアクション」「編集」をクリックします。
-2. ページに内容を記載し、完了したら右上の「保存」をクリックします。
+1. ページに内容を記載し、完了したら右上の「保存」をクリックします。
 1. ページ右上の「ページアクション」「編集」をクリックします。
 
 # 連絡先
 
-- Wikiの運営は[なっかあ](https://7ka.org/nakkaa/)( [OFUSE](https://ofuse.me/anahibi) | [BOOTH](https://nakkaa.booth.pm/) )が趣味で行っています。何かありましたらご連絡ください。
+- Wikiの運営は[なっかあ](https://7ka.org/nakkaa/)が趣味で行っています。何かありましたらご連絡ください。
