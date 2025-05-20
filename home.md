@@ -2,7 +2,7 @@
 title: Misskey鯖缶Wiki
 description: 
 published: true
-date: 2025-04-13T07:01:30.492Z
+date: 2025-05-20T03:15:39.846Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-25T09:18:07.348Z
@@ -22,8 +22,8 @@ Misskey鯖缶Wikiは、Misskeyサーバーの管理・運用のナレッジ情�
 
 # 脆弱性情報
 
-- Misskeyの脆弱性情報は[Security Advisories · misskey-dev/misskey](https://github.com/misskey-dev/misskey/security/advisories)で確認できます。  
-- 脆弱性対応のため、Misskey 2025.2.1以上にバージョンアップすることを推奨します。
+- Misskeyの脆弱性情報は[Security Advisories · misskey-dev/misskey](https://github.com/misskey-dev/misskey/security/advisories)で確認できます。脆弱性対応のため、`Patched versions`のバージョンに更新することをおすすめします。
+- 正式版リリース時と脆弱性公開時に投稿するbotを作成しました。RSSリーダーなどで購読できます。https://misskey.7ka.org/@misskey_bot  
 
 # カテゴリ
 
